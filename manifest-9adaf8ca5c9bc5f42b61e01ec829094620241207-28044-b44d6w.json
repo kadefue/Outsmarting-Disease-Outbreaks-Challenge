@@ -1,0 +1,68 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2024-12-07T10:39:43+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "waste_management.csv",
+      "filesize": 2118360,
+      "description": "Additional information on waste management locations in the area. ",
+      "created_at": "2024-12-05 11:26:37 UTC",
+      "updated_at": "2024-12-06 06:48:16 UTC"
+    },
+    {
+      "filename": "toilets.csv",
+      "filesize": 4442775,
+      "description": "Additional information on toilet locations in the area. ",
+      "created_at": "2024-12-05 11:26:38 UTC",
+      "updated_at": "2024-12-06 06:48:22 UTC"
+    },
+    {
+      "filename": "water_sources.csv",
+      "filesize": 4387666,
+      "description": "Additional information on water sources in the area. ",
+      "created_at": "2024-12-05 11:26:38 UTC",
+      "updated_at": "2024-12-06 06:47:56 UTC"
+    },
+    {
+      "filename": "Train.csv",
+      "filesize": 4089455,
+      "description": "This is the dataset on which to train your machine learning model. ",
+      "created_at": "2024-12-05 11:26:48 UTC",
+      "updated_at": "2024-12-06 15:15:42 UTC"
+    },
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 292851,
+      "description": "This file is an example of what your submission file should look like. ",
+      "created_at": "2024-12-05 11:27:22 UTC",
+      "updated_at": "2024-12-06 06:47:13 UTC"
+    },
+    {
+      "filename": "Test.csv",
+      "filesize": 838081,
+      "description": "This is the dataset on which you need to apply your trained model for prediction.",
+      "created_at": "2024-12-05 12:45:55 UTC",
+      "updated_at": "2024-12-06 06:47:18 UTC"
+    },
+    {
+      "filename": "OutsmartingOutbreaks_StarterNotebook.ipynb",
+      "filesize": 372890,
+      "description": "This is a starter notebook to help you make your first submission.",
+      "created_at": "2024-12-06 11:58:07 UTC",
+      "updated_at": "2024-12-06 11:58:25 UTC"
+    },
+    {
+      "filename": "VariableDefinitions.txt",
+      "filesize": 1769,
+      "description": "Variable Definitions",
+      "created_at": "2024-12-07 10:39:31 UTC",
+      "updated_at": "2024-12-07 10:39:43 UTC"
+    }
+  ]
+}
